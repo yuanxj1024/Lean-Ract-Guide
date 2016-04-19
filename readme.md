@@ -16,3 +16,12 @@
 	
 	*	[我对 React Native 的理解和看法](http://div.io/topic/851)
 	*	[React-Native入门指导之iOS篇](http://www.cnblogs.com/jianglan/p/5027315.html)
+
+2.	组件库
+	
+	*	[React组件库](https://github.com/Khan/react-components),类似bootstrap	
+3.	
+	
+	
+	
+	
