@@ -14,7 +14,7 @@
 	*	[React 入门实例教程-阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
 	*	[React 入门教程-极客学院](http://wiki.jikexueyuan.com/project/react-tutorial/)
 	*	[JSX in Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
-
+	*	[Webpack+React+ES6开发模式入门指南](http://www.cnblogs.com/skylar/p/React-Webpack-ES6.html)
 	*	[React&React Native生态-探索学习](https://github.com/icepy/Front-End-Develop-Guide/blob/master/React.md)
 	*	[react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit)
 
