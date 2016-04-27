@@ -1,10 +1,14 @@
 #React 学习笔记
 
 **目录**
+
 *	资料
 *	语法
 *	项目参考
+*	论坛
 
+
+----
 
 1.	资料
 	
@@ -86,3 +90,7 @@
 		React Components that Implement Google's Material Design
 	
 
+4.	论坛
+
+	*	[reactjs.cn](http://reactjs.cn/)
+	*	[react-china](react-china.org)
